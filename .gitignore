@@ -1,2 +1,3 @@
 Server/node_modules
 Server/config/dotenv.env
+.DS_Store
